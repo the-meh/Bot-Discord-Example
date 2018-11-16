@@ -1,0 +1,24 @@
+{
+  "name": "example-bot",
+  "version": "0.1.0",
+  "description": "Discord.js Example bot by THE-MEH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo WORKING!",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Node.js",
+    "Discordjs",
+    "Discord.js",
+    "Discord BOT",
+    "BOT"
+  ],
+  "author": "<author-you-name>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2.4.1",
+    "discord.js": "11.4.2"
+  }
+}

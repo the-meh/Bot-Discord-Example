@@ -29,7 +29,7 @@
 
 ## Executing
 
-### From the terminal
+### From the terminal/CMD
 
 1. Direct node execution
 ```sh
@@ -46,9 +46,6 @@ These code will work on windows too
 ### From the bat file
 
 Just run the `runbot.bat`
-
-### Another Example
-- [Sharding Example](https://github.com/Hazmi35/Discord-Bot-Example/tree/shard)
 
 # Usefull resources
 - [Discord.js Documentation](https://discord.js.org/#/docs)
